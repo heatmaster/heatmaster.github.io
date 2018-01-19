@@ -22,5 +22,5 @@ $$L^0 = \int_0^{+\infty} L_{\lambda}^0(T) d\lambda $$
 
 Commencez tout de suite par l'[introduction][intro] !
 
-[intro]: https://heatmaster.github.io
+[intro]: http://heat.netlify.com/2018/01/17/bienvenue.html 
 [w-ene-the]: https://fr.wikipedia.org/wiki/%C3%89nergie_thermique 
